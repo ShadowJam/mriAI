@@ -3,8 +3,6 @@
 
 # Multiple Sclerosis Diagnosis from Brain MRI
 
-# EN
-
 An educational research project: a prototype system for analyzing brain MRI scans to perform binary classification of multiple sclerosis (MS).
 
 > **Disclaimer:** This project was created for educational and research purposes. It is not a medical device, has not undergone clinical validation, and is not intended for diagnosis, treatment, or medical decision-making. Any model output must not be interpreted as a medical conclusion.
